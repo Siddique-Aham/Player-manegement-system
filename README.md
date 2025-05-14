@@ -30,6 +30,12 @@ A C++ based console application to manage cricket player statistics, including b
 
 ---
 
+Authors 
+
+1. Mohammad Aham
+2. Shaikh Sumaira
+
+
 ## Compilation & Execution
 
 ### Using Terminal:
@@ -39,10 +45,3 @@ g++ -c PlayerManager.cpp
 g++ -c main.cpp
 g++ -o player-management Player.o PlayerManager.o main.o
 ./player-management
-
-Authors
-
-Mohammad Aham
-Shaikh Sumaira
-
-
