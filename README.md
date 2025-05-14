@@ -40,3 +40,9 @@ g++ -c main.cpp
 g++ -o player-management Player.o PlayerManager.o main.o
 ./player-management
 
+Authors
+
+Mohammad Aham
+Shaikh Sumaira
+
+
