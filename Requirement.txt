@@ -1,0 +1,21 @@
+# Requirements for compiling the Cricket Player Management System
+
+Compiler:
+- g++ (GNU C++ Compiler) version 9.0 or higher recommended
+
+Build Tools:
+- make (optional, for Linux/Mac users using Makefile)
+
+Operating System:
+- Windows / Linux / macOS (any OS with C++ compiler)
+
+Project Files:
+- Player.h
+- Player.cpp
+- PlayerManager.h
+- PlayerManager.cpp
+- main.cpp
+
+Note:
+- No external libraries are required.
+- Ensure all .cpp and .h files are in the same directory before compiling.
